@@ -1,6 +1,6 @@
 {
   "resourceType" : "ImplementationGuide",
-  "id" : "base_ig",
+  "id" : "ig",
   "url" : "ihe.net/base_ig",
   "version" : "0",
   "name" : "Base IG",
