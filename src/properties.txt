@@ -3,7 +3,7 @@
 # If you change additionalVersion, be sure to delete the associated src-generated schemas folder
 # guidename must match the id of the implementation guide
 ################################################################################################
-guidename=base_ig
+guidename=ig
 copyrightyear=2018+
 license=CC0-1.0
 version=0.2.0
