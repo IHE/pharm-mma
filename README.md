@@ -1,2 +1,3 @@
-# davinci-crd
-DaVinci Coverage Requirements Discovery Implementation Guide
+# ihe-mma
+Example profile as IG
+
