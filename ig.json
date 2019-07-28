@@ -23,7 +23,7 @@
   "definition" : {
     "grouping" : [
       {
-        "name" : "Group 1"
+        "name" : "Group1"
       }
     ],
     "page" : {
