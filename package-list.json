@@ -1,0 +1,13 @@
+{
+ "package-id" : "efro-1302",
+ "title" : "EFRO 1302 - Digitale Zorg ondersteuning in Limburg voor Vlaanderen", 
+ "canonical" : "http://oursite.org/fhir/efro", 
+ "introduction" : "Digitale Zorg ondersteuning in de praktijk in Limburg als hefboom voor Vlaanderen - Digital care support in practice in Limburg as a leverage towards Flanders",
+ "list" : [{
+  "version" : "current",
+  "desc" : "Continuous Integration Build (latest in version control)",
+  "path" : "http://oursite.org/fhir/efro",
+  "status" : "ci-build",
+  "current" : true
+ }]
+}
