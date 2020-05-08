@@ -8,7 +8,7 @@
 <img src="ihe_front.jpg" alt="IHE_LOGO_for_tf-docs" style="width:1.78681in;height:0.92014in"/>
 </div>
 <br clear="all" />
-<p><strong>IHE PHARMACY</strong></p>
+<p><strong>{{site.data.fhir.ig.publisher}}</strong></p>
 <p><strong>Technical Framework Supplement</strong></p>
 <p></p>
 <p></p>
